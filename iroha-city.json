@@ -1,0 +1,97 @@
+{
+  "lines": [
+    {
+      "name": "A",
+      "stations": [
+        {
+          "name": "A1",
+          "up": 3,
+          "hasGarage": true,
+          "trains": 20
+        },
+        {
+          "name": "A2",
+          "up": 5
+        },
+        {
+          "name": "A3",
+          "up": 2
+        },
+        {
+          "name": "A4",
+          "up": 3
+        },
+        {
+          "name": "A5",
+          "up": 4
+        },
+        {
+          "name": "A6",
+          "up": 3
+        },
+        {
+          "name": "A7",
+          "up": 4,
+          "hasGarage": true,
+          "trains": 2
+        },
+        {
+          "name": "A8",
+          "up": 2
+        },
+        {
+          "name": "A9",
+          "up": 2
+        },
+        {
+          "name": "A10",
+          "up": 3
+        },
+        {
+          "name": "A11",
+          "up": 6
+        },
+        {
+          "name": "A12",
+          "up": 2
+        },
+        {
+          "name": "A13",
+          "hasGarage": true,
+          "trains": 20
+        }
+      ]
+    }, {
+      "name": "B",
+      "stations": [
+         {
+          "name": "B1",
+          "up": 4,
+          "hasGarage": true,
+          "trains": 20
+        },
+        {
+          "name": "B2",
+          "up": 3
+        },
+        {
+          "name": "B3",
+          "up": 3
+        },
+        {
+          "name": "B4",
+          "up": 2
+        },
+        {
+          "name": "B5",
+          "up": 3
+        },
+        {
+          "name": "A7",
+          "hasGarage": true,
+          "trains": 1
+        }
+     ]
+   }
+  ]
+}

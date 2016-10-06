@@ -1,0 +1,248 @@
+{
+  "lines": [
+    {
+      "name": "A",
+      "isCircle": true,
+      "stations": [
+        {
+          "name": "A1",
+          "up": 3
+        },
+        {
+          "name": "A2",
+          "up": 3
+        },
+        {
+          "name": "A3",
+          "up": 3
+        },
+        {
+          "name": "A4",
+          "up": 3,
+          "hasGarage": true,
+          "trains": 20
+        },
+        {
+          "name": "A5",
+          "up": 3
+        },
+        {
+          "name": "A6",
+          "up": 3
+        },
+        {
+          "name": "A7",
+          "up": 3
+        },
+        {
+          "name": "A8",
+          "up": 3
+        },
+        {
+          "name": "A9",
+          "up": 3
+        },
+        {
+          "name": "A10",
+          "up": 3
+        },
+        {
+          "name": "A11",
+          "up": 3
+        },
+        {
+          "name": "A12",
+          "up": 3,
+          "hasGarage": true,
+          "trains": 20
+        },
+        {
+          "name": "A13",
+          "up": 3
+        },
+        {
+          "name": "A14",
+          "up": 3
+        },
+        {
+          "name": "A15",
+          "up": 3
+        },
+        {
+          "name": "A16",
+          "up": 3
+        },
+        {
+          "name": "A17",
+          "up": 3
+        },
+        {
+          "name": "A18",
+          "up": 3,
+          "hasGarage": true,
+          "trains": 20
+        },
+        {
+          "name": "A19",
+          "up": 3
+        },
+        {
+          "name": "A20",
+          "up": 3
+        }
+      ]
+    }, {
+      "name": "B",
+      "stations": [
+        {
+          "name": "B1",
+          "up": 3,
+          "hasGarage": true,
+          "trains": 20
+        },
+        {
+          "name": "B2",
+          "up": 3
+        },
+        {
+          "name": "B3",
+          "up": 5
+        },
+        {
+          "name": "A10",
+          "up": 6
+        },
+        {
+          "name": "B4",
+          "up": 6
+        },
+        {
+          "name": "A1",
+          "hasGarage": true,
+          "trains": 20
+        }
+      ]
+    }, {
+      "name": "C",
+      "stations": [
+        {
+          "name": "B3",
+          "up": 3,
+          "hasGarage": true,
+          "trains": 20
+        },
+        {
+          "name": "C1",
+          "up": 3
+        },
+        {
+          "name": "A10",
+          "up": 3
+        },
+        {
+          "name": "C2",
+          "up": 3
+        },
+        {
+          "name": "C3",
+          "up": 3
+        },
+        {
+          "name": "B4",
+          "up": 3
+        },
+        {
+          "name": "C4",
+          "up": 3
+        },
+        {
+          "name": "C5",
+          "up": 3
+        },
+        {
+          "name": "C6",
+          "up": 3
+        },
+        {
+          "name": "A1",
+          "up": 4
+        },
+        {
+          "name": "C7",
+          "up": 4
+        },
+        {
+          "name": "C8",
+          "hasGarage": true,
+          "trains": 20
+        }
+      ]
+     }, {
+      "name": "D",
+      "stations": [
+        {
+          "name": "D1",
+          "up": 4,
+          "hasGarage": true,
+          "trains": 20
+        },
+        {
+          "name": "D2",
+          "up": 4
+        },
+        {
+          "name": "A15",
+          "up": 7
+        },
+        {
+          "name": "A18",
+          "up": 6
+        },
+        {
+          "name": "A1",
+          "up": 7
+        },
+        {
+          "name": "A4",
+          "up": 8
+        },
+        {
+          "name": "D3",
+          "hasGarage": true,
+          "trains": 20
+        }
+      ]
+    }, {
+      "name": "E",
+      "stations": [
+        {
+          "name": "D2",
+          "up": 4,
+          "hasGarage": true,
+          "trains": 20
+        },
+        {
+          "name": "A14",
+          "up": 4
+        },
+        {
+          "name": "E2",
+          "up": 4
+        },
+        {
+          "name": "C2",
+          "up": 4
+        },
+        {
+          "name": "B4",
+          "up": 4
+        },
+        {
+          "name": "A7",
+          "hasGarage": true,
+          "trains": 20
+        }
+      ]
+    }
+  ]
+}

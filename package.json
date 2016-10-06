@@ -1,0 +1,18 @@
+{
+  "name": "sprint3-diagram",
+  "version": "1.0.0",
+  "description": "今回のSPRINTでは架空の鉄道会社における時刻表、および乗換案内のプログラムを作成してもらいます。 以下に基本ルールを示します。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "author": "Givery",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "codecheck": "^0.5.8",
+    "testcase-util": "^0.2.0"
+  }
+}
